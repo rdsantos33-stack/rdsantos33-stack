@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Rodrigo
 
-<!--
-**rdsantos33-stack/rdsantos33-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Front-End em formação**
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e estou construindo minha carreira na área de desenvolvimento web. Atualmente, estou estudando e aprimorando meus conhecimentos em **HTML e CSS**, enquanto começo minha jornada com **JavaScript e React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **O que estou estudando:**
+
+* 🌐 HTML5 
+* 🎨 CSS3
+* ⚡ JavaScript
+* ⚛️ React
+* 📱 Desenvolvimento de interfaces responsivas
+* 🔧 Git e GitHub
+
+📚 Estou sempre buscando aprender, praticar e desenvolver novos projetos para evoluir minhas habilidades como desenvolvedor.
+
+🎯 **Meu objetivo:** tornar-me um desenvolvedor Front-End cada vez mais completo, criando interfaces modernas, responsivas e com uma boa experiência para o usuário.
+
+> "Cada linha de código é uma oportunidade para aprender algo novo. 🚀"
+
+### 🛠️ Tecnologias
+
+`HTML` `CSS` `JavaScript` `React` `Git` `GitHub`
+
+📌 **Atualmente:** aprendendo CSS e avançando nos estudos de JavaScript e React.
+
+[![rodrigodeoclecio](https://github-readme-stats.vercel.app/api?username=rdsantos33)](https://github.com/anuraghazra/github-readme-stats)
+
