@@ -22,6 +22,13 @@ Sou apaixonado por tecnologia e estou construindo minha carreira na área de des
 ### 🛠️ Tecnologias
 
 `HTML` `CSS` `JavaScript` `React` `Git` `GitHub`
+<br>
+<br>
+📱 Contact
+<br>
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodeoclecio/)
+
 
 📌 **Atualmente:** aprendendo CSS e avançando nos estudos de JavaScript e React.
 
